@@ -1,0 +1,41 @@
+# Secret — NEVER upload this
+.env
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Streamlit secrets (use Streamlit Cloud Secrets manager instead)
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# FAISS index files (regenerated each session)
+*.index
+*.faiss
