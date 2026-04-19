@@ -10,7 +10,6 @@ A production-grade **Multi-Agent AI ecosystem** that transforms programming educ
 ![Gemini](https://img.shields.io/badge/Google_Gemini-1.5_Flash-orange)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0.2.x-green)
 ![License](https://img.shields.io/badge/License-MIT-purple)
-![Cost](https://img.shields.io/badge/Cost-$0.00-brightgreen)
 
 ---
 
