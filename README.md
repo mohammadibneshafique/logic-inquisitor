@@ -19,7 +19,6 @@ A production-grade **Multi-Agent AI ecosystem** that transforms programming educ
 Most developers today paste broken code into AI tools and receive full solutions.
 The result: **learned helplessness** — developers who can use AI but cannot think independently.
 
-CS50's Duck Debugger is a step forward, but it is a single-agent, single-turn, unstructured system with no pattern recognition, no Socratic scaffolding, and no architectural intelligence.
 
 **The Logic Inquisitor never gives you the answer.**
 
@@ -266,4 +265,4 @@ MIT — see [LICENSE](LICENSE)
 
 ---
 
-*Built for the Agenticthon Hackathon 2025 · Powered by Google Gemini 1.5 Flash + LangGraph · Cost: $0.00*
+*Built for the Agenticthon Hackathon 2025 · Powered by Google Gemini 1.5 Flash + LangGraph ·*
