@@ -2,7 +2,7 @@
 
 > **Don't get the answer. Get the insight.**
 
-A production-grade **Multi-Agent AI ecosystem** that transforms programming education from passive answer-consumption into active Socratic investigation — built for the Agenticthon Hackathon using 100% free tools.
+A production-grade **Multi-Agent AI ecosystem** that transforms programming education from passive answer-consumption into active Socratic investigation — built for the Agenticthon Hackathon .
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://logic-inquisitor.streamlit.app)
 &nbsp;
